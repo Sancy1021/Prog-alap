@@ -1,7 +1,6 @@
 import random
 
 a1 = random.randrange(1,7)
-print(a1)
 if a1 == 1:
     print(a1)
     print('...')
@@ -28,9 +27,9 @@ elif a1==5:
     print('*.*')
     print('.*.')
     print('*.*')
-else: a1==6
-print(a1)
-print('*.*')
-print('*.*')
-print('*.*')
+else: 
+    print(a1)
+    print('*.*')
+    print('*.*')
+    print('*.*')
 
