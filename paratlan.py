@@ -1,6 +1,3 @@
-from re import I
-
-
 negyzet =0
 i=1 
 while(negyzet<1000):
